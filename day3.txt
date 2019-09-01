@@ -1,0 +1,161 @@
+<html>
+<head>
+<title>Day 3</title>
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="main.css" rel="stylesheet">
+<link href="Day4.html" rel="stylesheet">	
+</head>
+<body>
+<div class="container">
+<div class="row">
+	<div class="col-md-12">
+			<a href="Day4.html">Day 4-Elementaita</a>
+	</div>
+</div>
+	
+<div class="row">
+	<div class="col-md-12">
+		<div class="heading">
+		</div>
+		<h1>Day 3 Nakuru</h1>
+	</div>
+	
+<div class="row">
+	<div class="col-md-1">
+		<div class="blank2">'
+		</div>
+	 </div>
+	
+	<div class="col-md-2">
+		<div class="parg1">
+		<h2>01</h2>
+		</div>
+	</div>
+	
+	<div class="col-md-1">
+		<div class="blank3">
+		</div>
+	</div>
+	
+	<div class="col-md-3">
+		<div class="parg2">
+			<h2>Morning</h2>
+			<p>We went to Nakuru national park.</p>
+		</div>
+	</div>
+	
+	<div class="col-md-4">
+		<div class="img1">
+			
+		</div>
+	</div>
+	
+	<div class="col-md-1">
+		<div class="blank">
+		</div>
+	</div>
+</div>
+</div>
+	
+<hr>
+
+<div class="row">
+	<div class="col-md-12">
+	<div class="blank">
+	</div>
+	</div>
+
+<div class="row">
+		<div class="col-md-1">
+			<div class="blank">
+			</div>
+		</div>
+	
+		<div class="col-md-2">
+			<div class="parg3">
+			<h2>02</h2>
+			</div>	
+		</div>
+	
+		<div class="col-md-1">
+			<div class="blank">
+			</div>
+		</div>
+	
+		<div class="col-md-3">
+			<div class="img2">
+			
+			</div>
+		</div>
+	<div class="col-md-1">
+	<div class="blank">
+		</div>
+	
+	</div>
+	
+	<div class="col-md-3">
+	<div class="parg4">
+	<h2>Afternoon</h2>	
+	<p>We had lunch at Travelers Inn on the old Nairobi Nakuru road.</p>	
+	</div>
+	</div>
+	<div class="col-md-1">
+	<div class="blank">
+		</div>
+	</div>
+</div>
+</div>
+<hr>
+<div class="row">
+	<div class="col-md-12">	
+	</div>	
+	
+	
+<div class="row">
+	<div class="col-md-1">
+		<div class="blank">
+		</div>	
+	</div>
+	<div class="col-md-2">
+	<div class="parg5">
+	<h2>03</h2>	
+	</div>
+	</div>
+	<div class="col-md-1">
+	<div class="blank">
+	</div>
+	</div>
+	<div class="col-md-3">
+	<div class="parg6">
+	<h2>Evening</h2>
+	<p>We went back to Epashikino hotel</p>
+	</div>	\
+	</div>
+	<div class="col-md-1">
+	<div class="blank">
+	</div>
+	</div>
+	<div class="col-md-3">
+	<div class="img3">
+		
+	</div>
+	</div>
+	<div class="col-md-1">
+	<div class="blank">
+		</div>
+	</div>
+	
+	</div>	
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														</div>
+<hr>	
+	
+	
+	
+	
+	
+	
+	
+	 
+</div>
+</body>
+</html>
